@@ -3,9 +3,11 @@
 A simple chat app like telegram and whatsapp. 
 
 ## quick look
-<p align="left">
-  <img src="https://github.com/matan-chan/react_native_chat_app/blob/main/examples/example_vid.mp4?raw=true">
-</p>
+
+
+https://user-images.githubusercontent.com/51995084/141105551-c62c6d3e-a380-4c86-a886-43a978a21aba.mp4
+
+
 
 ## getting started
 
