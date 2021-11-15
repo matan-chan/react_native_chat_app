@@ -39,7 +39,7 @@ export default function Chat_selection({ navigation }) {
   }
   
   const chats_loader = async(name) => {
-    let response = await fetch("http://192.168.14.59:8080/get_users_chats", {
+    let response = await fetch("http://111.111.11.11:8080/get_users_chats", {
         body: JSON.stringify({
           name: name,
         }),

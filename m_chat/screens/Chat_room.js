@@ -53,7 +53,7 @@ export default function Chat_room({ route,navigation }) {
       set_initialElements(newArray);
       FlatList_ref._listRef._scrollRef.scrollToEnd({ animating: true });
       textInput_ref.clear()
-      let response = await fetch("http://192.168.14.59:8080/add_message", {
+      let response = await fetch("http://111.111.11.11:8080/add_message", {
         body: JSON.stringify({
           id: route.params.group.key,
           message: text_msg,
